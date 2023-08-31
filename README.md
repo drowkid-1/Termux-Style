@@ -16,19 +16,8 @@ personaliza la apatencia de tu [Termux](https://termux.com) terminal emulator.
 Follow the steps below - 
 
 ```bash
-# Go to home dir - 
-cd $HOME
+cd;git clone https://github.com/drowkid-1/Termux-Style;./install
 
-# Clone this repository (use `gh repo clone adi1090x/termux-style` if you want to use the GitHub CLI)- 
-git clone https://github.com/adi1090x/termux-style
-
-# Change to termux-style dir -
-cd termux-style
-
-# To install it, run -
-./install
-
-# And follow the steps, it'll be installed on your system.
 ```
 
 ### Run
